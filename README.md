@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV5NjdkMnRtbHRtaHZhbTBwcjdtcnRwN3Jxc2w5OGVxbG44YjB5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" height="180" alt="Code Rain" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:000000,100:003300&section=header" width="100%" alt="Header" />
 
 <br>
 
@@ -250,6 +250,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV5NjdkMnRtbHRtaHZhbTBwcjdtcnRwN3Jxc2w5OGVxbG44YjB5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" height="120" alt="Code Rain" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:003300,100:000000&section=footer" width="100%" alt="Footer" />
 
 </div>
