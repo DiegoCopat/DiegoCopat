@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:000000,100:003300&section=header" width="100%" alt="Header" />
-
-<br>
-
 ```
  ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗████████╗██████╗ ██╗ ██████╗
 ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██║██╔═══██╗
@@ -246,10 +242,3 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:003300,100:000000&section=footer" width="100%" alt="Footer" />
-
-</div>
